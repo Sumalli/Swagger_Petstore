@@ -1,0 +1,3 @@
+curl -X 'GET' \
+  'https://petstore.swagger.io/v2/user/logout' \
+  -H 'accept: application/json'
